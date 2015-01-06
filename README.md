@@ -1,4 +1,3 @@
-ui-handbook
-===========
+# ui-handbook
 
-Handbook about user interfaces
+Handbook about user interfaces.
